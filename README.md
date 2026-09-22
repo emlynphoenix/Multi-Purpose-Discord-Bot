@@ -114,9 +114,13 @@ To get a local copy up and running, follow these steps.
 
 <!-- TODO: replace with your real prefix/commands -->
 ```
-!help          Show all available commands
-!kick @user    Kick a user from the server
-!ticket        Open a support ticket
+$help          Show all available commands
+$kick @user    Kick a user from the server
+$ban @user     Ban a user from the server
+$delete        Delete a support ticket
+$close         Close a support ticket
+$access        Access a support ticket
+$add           Add a user to a support ticket
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -144,7 +148,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Emlyn - <!-- TODO: add your email / Discord / contact method or delete this line -->
+Emlyn - emlynphoenix1@gmail.com<!-- TODO: add your email / Discord / contact method or delete this line -->
 
 Project Link: [https://github.com/emlynphoenix/Sparkles-Discord-Bot](https://github.com/emlynphoenix/Sparkles-Discord-Bot)
 
