@@ -9,7 +9,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">Multi Purpose Discord Bot</h3>
+<h3 align="center">Multi-Purpose Discord Bot</h3>
 
   <p align="center">
     A multi-purpose Discord bot with moderation, utility, and fun commands.
