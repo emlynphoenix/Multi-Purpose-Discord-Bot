@@ -47,18 +47,13 @@
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!-- TODO: add a screenshot of the bot in action to images/screenshot.png -->
-<!-- ![Sparkles Bot Screenshot](images/screenshot.png) -->
+This is a Discord bot built to bring moderation, utility, and fun commands to a Discord server in one place.
 
-Sparkles is a Discord bot built to bring moderation, utility, and fun commands to a Discord server in one place.
-
-<!-- TODO: replace this with 2-3 real sentences on why you built it / what problem it solves -->
+Built as a small project to help maintain and manage a Discord server. It includes necessary features and abilities so that a server can run efficiently and easily through automation.
 
 **Key features:**
-<!-- TODO: keep the ones that are true, delete the rest, add anything missing -->
 - 🛡️ Moderation commands (kick, ban, mute, warn)
 - 🎟️ Ticket system for support requests
 - 🎉 Fun / utility commands
@@ -68,14 +63,12 @@ Sparkles is a Discord bot built to bring moderation, utility, and fun commands t
 
 ### Built With
 
-<!-- TODO: swap these badges for your actual stack. Common Discord bot ones below — delete what doesn't apply -->
 * [![Python][Python.badge]][Python-url]
 * [![Pycord][Pycord.badge]][Pycord-url]
 * [![SQLite][SQLite.badge]][SQLite-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 ## Getting Started
 
 To get a local copy up and running, follow these steps.
@@ -105,14 +98,12 @@ To get a local copy up and running, follow these steps.
    python main.py
    ```
 
-<!-- TODO: correct the exact install/run commands to match your actual file structure -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-<!-- TODO: replace with your real prefix/commands -->
 ```
 $help          Show all available commands
 $kick @user    Kick a user from the server
@@ -125,10 +116,8 @@ $add           Add a user to a support ticket
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP -->
 ## Roadmap
 
-<!-- TODO: real planned features, or delete this section if not needed -->
 - [ ] Slash command support
 - [ ] Web dashboard
 - [ ] Multi-language support
@@ -137,10 +126,8 @@ See the [open issues](https://github.com/emlynphoenix/Sparkles-Discord-Bot/issue
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 ## License
 
-<!-- TODO: pick a license (MIT is the common default) and add a LICENSE.txt file to the repo -->
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -148,7 +135,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Emlyn - emlynphoenix1@gmail.com<!-- TODO: add your email / Discord / contact method or delete this line -->
+Emlyn - emlynphoenix1@gmail.com
 
 Project Link: [https://github.com/emlynphoenix/Sparkles-Discord-Bot](https://github.com/emlynphoenix/Sparkles-Discord-Bot)
 
